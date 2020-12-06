@@ -1,0 +1,17 @@
+<GDInfos>
+<GDInfo name="lng_en" class="GDGameLanguage">
+        <components>
+            <comp class="CProperties">
+                <display_name>English</display_name>
+                <language_code>en-US</language_code>  
+            </comp>
+        </components>
+    <gstr name="GDWorldSettings.wsettings_very_easy.name">Very Easy</gstr>
+    <gstr name="GDWorldSettings.wsettings_very_easy.desc">Game starts with an additional colonist and 6 robots.</gstr>
+    <gstr name="GDWorldSettings.wsettings_very_hard.name">Very Hard</gstr>
+    <gstr name="GDWorldSettings.wsettings_very_very_hard.desc">Game starts with 1 colonist and no robots.</gstr>
+
+    </GDInfo>
+
+
+</GDInfos>

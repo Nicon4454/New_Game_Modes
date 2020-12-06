@@ -1,0 +1,21 @@
+<GDInfos>
+    <GDInfo name="wsettings_very_easy" class="GDWorldSettings">
+        <components>
+            <comp class="CProperties">
+                <!-- World Generator -->
+                <world_generator>worldgen_ruins3</world_generator>
+                
+                <!-- Capsules and Walker bot in starting area -->
+                <num_starting_capules>5</num_starting_capules>
+                <num_starting_robots>6</num_starting_robots>
+                
+                <!-- Capsules and Walker bot spawned outside starting area -->
+                <num_missing_capsules>5</num_missing_capsules>
+                <num_missing_robots>10</num_missing_robots>
+                
+                <limit_job_roles_from_attributes>false</limit_job_roles_from_attributes>
+                <research_cap>900</research_cap>
+            </comp>
+        </components>
+    </GDInfo>
+</GDInfos>
